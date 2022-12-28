@@ -1,0 +1,7 @@
+go
+fun
+come
+fill
+run
+dump
+cleango to room
